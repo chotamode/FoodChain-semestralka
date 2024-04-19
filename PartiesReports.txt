@@ -1,0 +1,128 @@
+Parties Reports:
+
+Parties Report: Seller: MACRO.Inc answered on request
+
+Parties Report: Seller: MACRO.Inc doesn't have enough of BEEF
+
+Parties Report: Storage: MakroStorage1 answered on request
+
+Parties Report: Seller: MakroStorage1 doesn't have enough of BEEF
+
+Parties Report: Processor: CeskaPosta answered on request
+
+Parties Report: Processor: CeskaPosta doesn't have enough of BEEF
+
+Parties Report: Farmer: Bob asking ~ 40 for his work
+
+Parties Report: Distributor: Taxi answered on request and will deliver product in nearest time
+
+Parties Report: Distributor: Taxi got Product: BEEF from: Farmer
+
+Parties Report: Distributor: Taxi send Product to receiver: Processor: CeskaPosta
+
+Parties Report: Processor: CeskaPosta answered on request
+
+Parties Report: Processor: CeskaPosta has product now and he is preparing it for delivery
+
+Parties Report: Processor: CeskaPosta asking ~ 30 for his work
+
+Parties Report: Distributor: Taxi answered on request and will deliver product in nearest time
+
+Parties Report: Distributor: Taxi got Product: BEEF from: Processor
+
+Parties Report: Distributor: Taxi send Product to receiver: Storage: MakroStorage1
+
+Parties Report: Storage: MakroStorage1 answered on request
+
+Parties Report: Storage: MakroStorage1 has product now and he is preparing it for delivery
+
+Parties Report: Storage: MakroStorage1 asking ~ 20 for his work
+
+Parties Report: Distributor: Taxi answered on request and will deliver product in nearest time
+
+Parties Report: Distributor: Taxi got Product: BEEF from: Storage
+
+Parties Report: Distributor: Taxi send Product to receiver: Seller: MACRO.Inc
+
+Parties Report: Seller: MACRO.Inc answered on request
+
+Parties Report: Seller: MACRO.Inc has product now and he is preparing it for delivery
+
+Parties Report: Seller: MACRO.Inc asking ~ 140 for his work
+
+Parties Report: Distributor: Taxi answered on request and will deliver product in nearest time
+
+Parties Report: Distributor: Taxi got Product: BEEF from: Seller
+
+Parties Report: Distributor: Taxi send Product to receiver: Customer: Sam
+
+Parties Report: Seller: TESCO.Inc answered on request
+
+Parties Report: Seller: TESCO.Inc has product now and he is preparing it for delivery
+
+Parties Report: Seller: TESCO.Inc asking ~ 140 for his work
+
+Parties Reports:
+
+Parties Report: Seller: MACRO.Inc answered on request
+
+Parties Report: Seller: MACRO.Inc doesn't have enough of BEEF
+
+Parties Report: Storage: MakroStorage1 answered on request
+
+Parties Report: Seller: MakroStorage1 doesn't have enough of BEEF
+
+Parties Report: Processor: CeskaPosta answered on request
+
+Parties Report: Processor: CeskaPosta doesn't have enough of BEEF
+
+Parties Report: Farmer: Bob asking ~ 40 for his work
+
+Parties Report: Distributor: Taxi answered on request and will deliver product in nearest time
+
+Parties Report: Distributor: Taxi got Product: BEEF from: Farmer
+
+Parties Report: Distributor: Taxi send Product to receiver: Processor: CeskaPosta
+
+Parties Report: Processor: CeskaPosta answered on request
+
+Parties Report: Processor: CeskaPosta has product now and he is preparing it for delivery
+
+Parties Report: Processor: CeskaPosta asking ~ 30 for his work
+
+Parties Report: Distributor: Taxi answered on request and will deliver product in nearest time
+
+Parties Report: Distributor: Taxi got Product: BEEF from: Processor
+
+Parties Report: Distributor: Taxi send Product to receiver: Storage: MakroStorage1
+
+Parties Report: Storage: MakroStorage1 answered on request
+
+Parties Report: Storage: MakroStorage1 has product now and he is preparing it for delivery
+
+Parties Report: Storage: MakroStorage1 asking ~ 20 for his work
+
+Parties Report: Distributor: Taxi answered on request and will deliver product in nearest time
+
+Parties Report: Distributor: Taxi got Product: BEEF from: Storage
+
+Parties Report: Distributor: Taxi send Product to receiver: Seller: MACRO.Inc
+
+Parties Report: Seller: MACRO.Inc answered on request
+
+Parties Report: Seller: MACRO.Inc has product now and he is preparing it for delivery
+
+Parties Report: Seller: MACRO.Inc asking ~ 140 for his work
+
+Parties Report: Distributor: Taxi answered on request and will deliver product in nearest time
+
+Parties Report: Distributor: Taxi got Product: BEEF from: Seller
+
+Parties Report: Distributor: Taxi send Product to receiver: Customer: Sam
+
+Parties Report: Seller: TESCO.Inc answered on request
+
+Parties Report: Seller: TESCO.Inc has product now and he is preparing it for delivery
+
+Parties Report: Seller: TESCO.Inc asking ~ 140 for his work
+
